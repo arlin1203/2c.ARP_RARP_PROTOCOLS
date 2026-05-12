@@ -18,25 +18,26 @@ stored.
 P
 ## PROGRAM - ARP
 client:
-<img width="552" height="200" alt="Screenshot 2026-05-12 120615" src="https://github.com/user-attachments/assets/b3bd1082-0bd0-421b-9e50-29b8d510ca74" />
+<img width="508" height="267" alt="image" src="https://github.com/user-attachments/assets/12317f92-410b-4102-82e2-f47f57821930" />
 
 server:
-<img width="818" height="317" alt="Screenshot 2026-05-12 120528" src="https://github.com/user-attachments/assets/da4b9fad-7067-456d-92ee-b7f74df54382" />
+<img width="547" height="193" alt="image" src="https://github.com/user-attachments/assets/296eac9a-125a-4346-9b2a-5c8a86bdd7b5" />
+
 
 ## OUPUT - ARP
 client:                        server:
-<img width="1787" height="509" alt="Screenshot 2026-05-12 120741" src="https://github.com/user-attachments/assets/b0b4ba2d-4b1a-42b1-bd57-39b11fb98715" />
+<img width="873" height="235" alt="image" src="https://github.com/user-attachments/assets/3f398c9d-9805-4fbb-b34b-9af81a7bd534" />
 
 ## PROGRAM - RARP
 client:
-<img width="747" height="340" alt="image" src="https://github.com/user-attachments/assets/49fb37a6-cb6a-4469-9fd0-525b3f145378" />
+<img width="647" height="262" alt="image" src="https://github.com/user-attachments/assets/a62cddbb-e97f-47da-a3d3-26dbc52fb25e" />
 
 server:
-<img width="622" height="166" alt="image" src="https://github.com/user-attachments/assets/3531442b-c48c-4e94-a6ef-9b0413e8c786" />
+<img width="747" height="175" alt="image" src="https://github.com/user-attachments/assets/1b1297c1-f97c-4351-b66e-1efa773b65ca" />
 
 ## OUPUT -RARP
 client:                  server:
-<img width="875" height="285" alt="image" src="https://github.com/user-attachments/assets/e08bf2da-5686-4c54-89bc-49f39eaa1913" />
+<img width="862" height="223" alt="image" src="https://github.com/user-attachments/assets/b4f8c3b5-2002-42b5-b1e5-284650ee9bb3" />
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
