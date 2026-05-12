@@ -36,7 +36,7 @@ server:
 
 ## OUPUT -RARP
 client:                  server:
-<img width="1817" height="528" alt="image" src="https://github.com/user-attachments/assets/1e4f1250-e757-4cd7-9543-b0279e13c4dc" />
+<img width="875" height="285" alt="image" src="https://github.com/user-attachments/assets/e08bf2da-5686-4c54-89bc-49f39eaa1913" />
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
